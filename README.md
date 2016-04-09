@@ -35,6 +35,8 @@ To import the entire core set of functionality:
 ```js
 import Rx from 'rxjs/Rx';
 
+console.log(((
+
 Rx.Observable.of(1,2,3)
 ```
 
